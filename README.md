@@ -2,9 +2,11 @@
 
 > 일상에서 벗어나 ```랜덤```에 의지하여 발걸음을 내딛고 이를 기록할 수 있는 어플리케이션
 
-![thumbnail_블러처리](https://user-images.githubusercontent.com/87413634/161949401-f500469c-ff35-4cf1-88c9-85226991e16e.jpg)
+![다운로드](https://user-images.githubusercontent.com/87413634/161967890-350621f7-e3b6-4dbb-8699-b3e9616803a8.png)
 
 :point_right:[ GabojaGO notion ](https://bit.ly/Gabojago)
+
+
 
 # Download URL
 [ https://bit.ly/GabojagoDown ](https://bit.ly/GabojagoDown)
