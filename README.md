@@ -8,6 +8,11 @@
 # Download URL
 [ https://bit.ly/GabojagoDown ](https://bit.ly/GabojagoDown)
 
+
+# notion 
+[ GabojaGO notion ](https://bit.ly/Gabojago)
+
+
 # API Docs
 (스웨거링크)
 
