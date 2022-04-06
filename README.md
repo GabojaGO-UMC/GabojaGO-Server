@@ -1,31 +1,26 @@
-# GabojaGO-Server
+# ✨About GabojaGO
 
-> 가보자Go Back-End Server Project
-
-## ✨About GabojaGO
-------------
-```일상에서 벗어나, '랜덤'에 의지하여 발걸음을 내딛고 이를 기록할 수 있는 어플리케이션```
+> 일상에서 벗어나 ```랜덤```에 의지하여 발걸음을 내딛고 이를 기록할 수 있는 어플리케이션
 
 ![thumbnail_블러처리](https://user-images.githubusercontent.com/87413634/161949401-f500469c-ff35-4cf1-88c9-85226991e16e.jpg)
 
-:point_right:[GabojaGO notion](https://bit.ly/Gabojago)
 
-:point_right:[GabojaGO download](https://bit.ly/GabojagoDown)
+# Download
+:point_right:[ App download ](https://bit.ly/GabojagoDown)
 
-
-## API Docs
-------------
+# API Docs
 (스웨거링크)
 
 
-## Tech Stack
-------------
+# Tech Stack
 ```Node.js``` ```AWS``` ```JWT``` ```MYSQL``` ```Nginx``` ```Mysql``` 
 
 
-## ERD
-------------
+# ERD
 ![image](https://user-images.githubusercontent.com/87413634/161952509-17de07ec-c5d8-4dfa-8889-9721c6b9814a.png)
 
-## Author
-------------
+# notion
+:point_right:[ GabojaGO notion ](https://bit.ly/Gabojago)
+
+
+# Author
