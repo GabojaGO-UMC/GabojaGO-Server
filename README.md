@@ -4,16 +4,12 @@
 
 ![다운로드](https://user-images.githubusercontent.com/87413634/161967890-350621f7-e3b6-4dbb-8699-b3e9616803a8.png)
 
-:point_right:[ GabojaGO notion ](https://bit.ly/Gabojago)
-
+# notion
+:bulb: [ GabojaGO notion ](https://bit.ly/Gabojago)
 
 
 # Download URL
-[ https://bit.ly/GabojagoDown ](https://bit.ly/GabojagoDown)
-
-
-# API Docs
-```https://bit.ly/gabojagoAPIsheet```
+:bookmark_tabs: [ https://bit.ly/GabojagoDown ](https://bit.ly/GabojagoDown)
 
 
 # Tech Stack
@@ -22,6 +18,10 @@
 
 # ERD
 ![image](https://user-images.githubusercontent.com/87413634/161952509-17de07ec-c5d8-4dfa-8889-9721c6b9814a.png)
+
+
+# API Docs
+:scroll: [ https://bit.ly/gabojagoAPIsheet ](https://bit.ly/gabojagoAPIsheet)
 
 
 # Author
