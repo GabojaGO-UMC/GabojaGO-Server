@@ -13,7 +13,7 @@
 
 
 # API Docs
-(스웨거링크)
+```https://bit.ly/gabojagoAPIsheet```
 
 
 # Tech Stack
