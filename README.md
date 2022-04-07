@@ -26,6 +26,7 @@
 
 # Author
 + organization : [ @GabojaGO-UMC ](https://github.com/GabojaGO-UMC)
++ with : [ @케융 ](https://github.com/hannah100-coder)👸  [ @포뇨 ](https://github.com/Hg-studios):girl:  [ @루시 ](https://github.com/kolucy):woman:
 + gmail : moreGabojago@gmail.com
 
 # Show your support
