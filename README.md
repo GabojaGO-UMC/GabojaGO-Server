@@ -7,22 +7,17 @@
 # notion
 :bulb: [ GabojaGO notion ](https://bit.ly/Gabojago)
 
-
 # Download URL
 :bookmark_tabs: [ https://bit.ly/GabojagoDown ](https://bit.ly/GabojagoDown)
-
 
 # Tech Stack
 ```Node.js``` ```AWS``` ```JWT``` ```MYSQL``` ```Nginx``` ```Mysql``` 
 
-
 # ERD
 ![image](https://user-images.githubusercontent.com/87413634/161952509-17de07ec-c5d8-4dfa-8889-9721c6b9814a.png)
 
-
 # API Docs
 :scroll: [ https://bit.ly/gabojagoAPIsheet ](https://bit.ly/gabojagoAPIsheet)
-
 
 # Author
 + organization : [ @GabojaGO-UMC ](https://github.com/GabojaGO-UMC)
